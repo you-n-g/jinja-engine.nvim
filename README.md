@@ -24,7 +24,9 @@
 
 Welcome to contribute to this project.
 
-You can test the plugin with minimal config with
+You can test the plugin in UI with minimal config with
 - `vim -u tests/init_conf/lazy.lua -U NONE -N -i NONE` for [lazy.nvim](https://github.com/folke/lazy.nvim)
+
+If you prefer to run tests without a user interface, you can execute `make test` to initiate the test suite.
 
 # Related Projects
