@@ -1,0 +1,3 @@
+[submodule "lua/lupa"]
+	path = lua/lupa
+	url = https://github.com/zhsso/lupa
